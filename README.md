@@ -6,10 +6,10 @@ Izmantojot šo projektu, lietotāji var reģistrēties, lasīt jaunākās ziņas
 
    Šajam ziņu portālam ir jāizpilda sekojošās funkcionalitātes:
 
-* Detalizētas informācijas par automašīnu apskate un nepieciešamās preces meklēšana pēc atslēgvārdiem un filtrēšanas kritērijiem (krāsa, ātrumkārba, marka, cenas intervāls);
-* Apskatīt piedāvājumu visas pieejamās krāsās un veikt pasūtījumu aizpildot formu;
-* Iespēja mainīt sava profila datus (paroli un attēlu);
-* Iespēja apskatīt visus savus pasūtījumus un izvadīt excel tabulā;
-* Iespēja atstāt komentāri un dzēst to;
-* Reģistrācija un autorizācija.
- 
+*	iespēja pievienot ziņas plūsmai (pieejama administratoriem un redaktoriem);
+*	spēja rakstīt lietotāja rakstus;
+*	ziņu dzēšana, pievienošana, pārlūkošana, meklēšana un šķirošana;
+*	klientu pievienošana, dzēšana un rediģēšana;
+*	iespēja skatīt aktuālās ziņas tīmekļa vietnē;
+*	iespēja uzrakstīt atbalsta vēstuli;
+*	personīgo kontu rediģēšana.
