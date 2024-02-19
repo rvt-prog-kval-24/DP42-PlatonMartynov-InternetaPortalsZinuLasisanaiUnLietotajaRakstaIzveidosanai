@@ -1,8 +1,7 @@
-# DP42-PlatonMartynov-InternetaPortalsZinuLasisanaiUnLietotajaRakstaIzveidosanai
-Repository with project work "News Portal-Articles" (Interneta portāls ziņu lasīšanai un lietotāja raksta izveidošanai)
+# Interneta portāls ziņu lasīšanai un lietotāja raksta izveidošanai
 
-# Projekta apraksts
-Noslēguma darba uzdevums ir nodrošināt sabiedrībai uzticamu un patiesu ziņu un rakstu avotu, kas spēs piesaistīt auditorijas uzmanību. Darba saskarne būs paredzēta nepieredzējušiem lietotājiem, un tā būs viegli lietojama, lai nerastos kādas problēmas.
+## Projekta apraksts
+Kvalifikācijas darba uzdevums ir nodrošināt sabiedrībai uzticamu un patiesu ziņu un rakstu avotu, kas spēs piesaistīt auditorijas uzmanību. Darba saskarne būs paredzēta nepieredzējušiem lietotājiem, un tā būs viegli lietojama, lai nerastos kādas problēmas.
 Izmantojot šo projektu, lietotāji var reģistrēties, lasīt jaunākās ziņas mūsu ziņu plūsmā un rakstīt savus rakstus vienā no šīs vietnes sadaļām par jebkuru no piedāvātajām tēmām, un pēc moderēšanas lietotāja raksts tiks publicēts un pieejams visiem pārējiem lietotājiem.
 
    Šajam ziņu portālam ir jāizpilda sekojošās funkcionalitātes:
