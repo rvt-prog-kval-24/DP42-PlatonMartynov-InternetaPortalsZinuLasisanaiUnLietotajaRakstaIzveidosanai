@@ -1,4 +1,4 @@
-# Funkcionālās prasības
+## Funkcionālās prasības
 
 Lai piekļūtu vietnes funkcionalitātei, lietotājam ir nepieciešams reģistrēties. Reģistrējoties lietotājam ir jāievada segvārds, e-pasts un parole. Katrs lauks ir nokārto validāciju. Tiek izveidots datu bāzes savienojums. Ja reģistrācija bija veiksmīga, dati tiek ierakstīti datu bāzē un lietotājam tiek izveidots profils.
 Vietnē būs pieejamas šādas funkcijas:
@@ -24,7 +24,7 @@ Vietnē būs pieejamas šādas funkcijas:
 7.	Jānodrošina lietotājiem apskatīt savu profilu un mainīt datus
 8.	Jānodrošina lietotājam pārskatīt kategorijas
 
-# Nefunkcionalās prasības
+## Nefunkcionalās prasības
 
 1.	Mājas lapai būs jābūt pieejamai angļu un latviešu valodā.
 2.	Pielāgojiet vietni dažādām ekrāna izšķirtspējām.
