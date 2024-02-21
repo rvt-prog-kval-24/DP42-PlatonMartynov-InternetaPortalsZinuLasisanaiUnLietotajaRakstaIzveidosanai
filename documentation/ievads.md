@@ -1,4 +1,4 @@
-# IEVADS
+## IEVADS
 
 Mūsdienu pasaulē būt informētam ir svarīgāk nekā jebkad agrāk, un ziņu portāliem ir būtiska nozīme, sniedzot sabiedrībai jaunāko informāciju par vietējiem, valsts un globāliem notikumiem. Līdz ar digitālo tehnoloģiju attīstību ziņu portāli ir kļuvuši par būtisku mūsu ikdienas sastāvdaļu, piedāvājot ērtu veidu, kā piekļūt ziņām un informācijai no dažādiem avotiem.
 Viena no ziņu portālu priekšrocībām ir to spēja piegādāt ziņas reāllaikā. Atšķirībā no tradicionālajiem drukātajiem medijiem, kurus ierobežo drukas grafiki, ziņu portāli var atjaunināt savu saturu notikumu attīstības gaitā, nodrošinot lietotājiem jaunāko informāciju, tiklīdz tā kļūst pieejama. Tas padara ziņu portālus par nenovērtējamu resursu ikvienam, kas vēlas būt informēts par jaunākajām ziņām un aktualitātēm.
