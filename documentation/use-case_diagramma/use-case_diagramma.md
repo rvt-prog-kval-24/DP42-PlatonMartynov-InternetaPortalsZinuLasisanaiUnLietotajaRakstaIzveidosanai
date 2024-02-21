@@ -1,4 +1,4 @@
-# Lietojumgadījuma diagramma
+## Lietojumgadījuma diagramma
 
 Lai izprast lietotāju sadalījumu, to iespējas un mijiedarbību ar sistēmu, tika izveidota use-case diagramma, kas vizuāli attēlos visu nepieciešamo. 
 Šī pieeja ļauj izprast katra lietotāja attiecības un nākotnes funkcijas, kas būs nepieciešamas dažādiem lietotāju tipiem.
